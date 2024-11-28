@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://goonemyuk.github.io/futuris/sitemap.xml
